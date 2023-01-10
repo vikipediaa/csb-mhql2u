@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vikipediaa.github.io/csb-mhql2u/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vikipediaa.github.io/csb-mhql2u/static/js/main.e8c06cb8.chunk.js",
+    "main.js.map": "https://vikipediaa.github.io/csb-mhql2u/static/js/main.e8c06cb8.chunk.js.map",
+    "runtime-main.js": "https://vikipediaa.github.io/csb-mhql2u/static/js/runtime-main.0d6e7722.js",
+    "runtime-main.js.map": "https://vikipediaa.github.io/csb-mhql2u/static/js/runtime-main.0d6e7722.js.map",
+    "static/js/2.dca8d8d4.chunk.js": "https://vikipediaa.github.io/csb-mhql2u/static/js/2.dca8d8d4.chunk.js",
+    "static/js/2.dca8d8d4.chunk.js.map": "https://vikipediaa.github.io/csb-mhql2u/static/js/2.dca8d8d4.chunk.js.map",
+    "index.html": "https://vikipediaa.github.io/csb-mhql2u/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vikipediaa.github.io/csb-mhql2u/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.dca8d8d4.chunk.js.LICENSE.txt": "https://vikipediaa.github.io/csb-mhql2u/static/js/2.dca8d8d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d6e7722.js",
+    "static/js/2.dca8d8d4.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.e8c06cb8.chunk.js"
+  ]
+}
